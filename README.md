@@ -41,9 +41,17 @@ Follow these steps to get the project up and running:
       ```bash
       cd pw-video-player
       ```
+    - Install yarn:
+      ```bash
+      sudo npm install --global yarn
+      ```
     - Install dependencies:
       ```bash
       yarn install
+      ```
+      or
+      ```bash
+      yarn
       ```
 - **Configuration**: 
     - Open the project in VS Code and locate the `creds.json` file.
@@ -56,7 +64,7 @@ Follow these steps to get the project up and running:
 - Run the application:
   ```bash
   yarn start
-
+    ```
 
 The code runs on localhost:3000 but the video player may not be available directly. To check the video player:
 Go to the assigned video on the stage server, e.g., https://staging.physicswallah.live/watch/....
