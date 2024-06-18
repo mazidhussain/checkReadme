@@ -6,11 +6,6 @@ A concise yet descriptive project overview.
 2. [Tech Stack](#tech-stack)
 3. [Prerequisites](#prerequisites)
 4. [Getting Started](#getting-started)
-5. [Usage](#usage)
-6. [Testing](#testing)
-7. [Deployments](#deployments)
-8. [Contributors](#contributors)
-9. [License](#license)
 
 ## Project Overview <a name="project-overview"></a>
 - **Purpose**: 
